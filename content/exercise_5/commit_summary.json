@@ -1,0 +1,180 @@
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/d3aaa75e4a8a890f806e8af710fda615490ee0a9",
+  "author_name": "Puneeth K",
+  "message": "DOC Adding Dropdown to module 7.2 Realworld Datasets (#26693)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/a6a6a47fb3172c7fcbf0c52870c1279b24114ad8"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/a6a6a47fb3172c7fcbf0c52870c1279b24114ad8",
+  "author_name": "Puneeth K",
+  "message": "DOC Adding dropdown for module 2.1 Gaussian Mixtures (#26694)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/7ba963f3e538eb7fe62767af2672c76f8174a763"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/7ba963f3e538eb7fe62767af2672c76f8174a763",
+  "author_name": "Yuusuke Hiramatsu",
+  "message": "DOC take `Examples` out of a dropdown (#27034)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/bbc73cfd7f5a85f6ac63432d3294abecdcb81d2a"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/bbc73cfd7f5a85f6ac63432d3294abecdcb81d2a",
+  "author_name": "Guillaume Lemaitre",
+  "message": "FIX _safe_divide should handle zero-division with numpy scalar (#27312)\n\nCo-authored-by: Christian Lorentzen <lorentzen.ch@gmail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/c634b8abbb5d96e0089b593aa04fb5ac80a047ec"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/c634b8abbb5d96e0089b593aa04fb5ac80a047ec",
+  "author_name": "Stefanie Senger",
+  "message": "MNT Deprecate SAMME.R algorithm from AdaBoostClassifier (#26830)\n\nCo-authored-by: Guillaume Lemaitre <g.lemaitre58@gmail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/b7d80a0317d07adb57dd1eead0c74fb9d42f710c"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/b7d80a0317d07adb57dd1eead0c74fb9d42f710c",
+  "author_name": "Tim Head",
+  "message": "FIX skip array API tests when running with device=\"mps\" without the PYTORCH_ENABLE_MPS_FALLBACK env var (#27199)\n\nCo-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/a31e1085e13af88a22d6c983192d54a58eaa845b"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/a31e1085e13af88a22d6c983192d54a58eaa845b",
+  "author_name": "Elisabeth Günther",
+  "message": "DOC improve iris example (#26973)\n\nCo-authored-by: Elisabeth Günther <eguenther@MacBook-Pro-von-Elisabeth.local>\r\nCo-authored-by: Guillaume Lemaitre <g.lemaitre58@gmail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/844b087da4f2aabe1c26395fb95e52d50b6d9d8d"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/844b087da4f2aabe1c26395fb95e52d50b6d9d8d",
+  "author_name": "Edoardo Abati",
+  "message": "ENH Add Array API compatibility to `zero_one_loss` and `accuracy_score` (#27137)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/dcf88e9f6b629ae652bd1a60c8f10e1ff9626aa8"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/dcf88e9f6b629ae652bd1a60c8f10e1ff9626aa8",
+  "author_name": "Stefanie Senger",
+  "message": "TST Extend tests for `scipy.sparse.*array` in `test_encoders.py` (#27289)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/5dbb8f52dc5c9902503b0b686f25916321a0ebbd"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/5dbb8f52dc5c9902503b0b686f25916321a0ebbd",
+  "author_name": "Christian Lorentzen",
+  "message": "ENH replace loss module Gradient boosting (#26278)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/51ca717db5065e912cdd6cd838bb08d4d08c2770"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/51ca717db5065e912cdd6cd838bb08d4d08c2770",
+  "author_name": "Tamara",
+  "message": "DOC fix random_state in example for reproducibility cont'd (#27238)\n\nCo-authored-by: Guillaume Lemaitre <g.lemaitre58@gmail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/872c19effd6cf45b90b7e7cad15c5a2a80990ef9"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/872c19effd6cf45b90b7e7cad15c5a2a80990ef9",
+  "author_name": "Lucy Liu",
+  "message": "ENH Allows multiclass target in `TargetEncoder` (#26674)\n\nCo-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/5763e5adf6c769c134647dc95e0760c128e9cc8f"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/5763e5adf6c769c134647dc95e0760c128e9cc8f",
+  "author_name": "Tamara",
+  "message": "DOC fix random_state in several example for reproducibility (#27153)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/dbdb66e9e9a6e3303abcf4b16a835e501f90d7de"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/dbdb66e9e9a6e3303abcf4b16a835e501f90d7de",
+  "author_name": "Julien Jerphanion",
+  "message": "CI Pin `Cython<3` in some builds due to observed regressions (#27266)\n\nCo-authored-by: Loïc Estève <loic.esteve@ymail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/b72252e9629d8cf618397f7a2ab4da28fa1021f6"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/b72252e9629d8cf618397f7a2ab4da28fa1021f6",
+  "author_name": "Lucy Liu",
+  "message": "TST Fix typo, lint `test_target_encoder.py` (#26958)\n\nCo-authored-by: Olivier Grisel <olivier.grisel@ensta.org>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/cb15a82e6439feda50b0605d70ce6d06c2eac7fd"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/cb15a82e6439feda50b0605d70ce6d06c2eac7fd",
+  "author_name": "Mateusz Sokół",
+  "message": "MAINT: Remove np.in1d and np.trapz usages (#27140)\n\nCo-authored-by: Loïc Estève <loic.esteve@ymail.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/95778fbc6575a75904268e9836c34ecc35bacfec"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/95778fbc6575a75904268e9836c34ecc35bacfec",
+  "author_name": "Jérémie du Boisberranger",
+  "message": "BENCH pin dependencies in asv benchmarks (#27264)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/40abf8b7f9c48a5cefab7e8f94b3ef71585db9c1"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/40abf8b7f9c48a5cefab7e8f94b3ef71585db9c1",
+  "author_name": "Bharat Raghunathan",
+  "message": "DOC Fix user name in whats new entry (#27300)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/e24c13ca756a490b0044326c82cb6ecaeb0aa750"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/e24c13ca756a490b0044326c82cb6ecaeb0aa750",
+  "author_name": "Rahil Parikh",
+  "message": "FIX accept `array-like` in `feature_names` for `plot_tree` (#27292)\n\nCo-authored-by: Jérémie du Boisberranger <34657725+jeremiedbb@users.noreply.github.com>",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/52b692511450f7439eb929ad16933871c9a6ba68"
+  ]
+}
+{
+  "commit_tree_url": "https://api.github.com/repos/scikit-learn/scikit-learn/commits/52b692511450f7439eb929ad16933871c9a6ba68",
+  "author_name": "Omar Salman",
+  "message": "MAINT remove unintentional file pushed (#27304)",
+  "verified": true,
+  "parents": [
+    "https://api.github.com/repos/scikit-learn/scikit-learn/commits/95f838fcc49734152960eb1bd203cdc8ddb79ba9"
+  ]
+}

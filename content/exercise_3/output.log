@@ -1,0 +1,20 @@
+-rwxr-xr-x 1 root root       51632 feb  7  2022 /bin/[
+-rwxr-xr-x 1 root root       18456 feb  7  2021 /bin/411toppm
+lrwxrwxrwx 1 root root          47 jul  5 16:03 /bin/4kvideodownloader -> /usr/lib/4kvideodownloader/4kvideodownloader.sh
+-rwxr-xr-x 1 root root       35344 okt 19  2022 /bin/aa-enabled
+-rwxr-xr-x 1 root root       35344 okt 19  2022 /bin/aa-exec
+-rwxr-xr-x 1 root root       31248 okt 19  2022 /bin/aa-features-abi
+-rwxr-xr-x 1 root root       22912 jan 12  2022 /bin/aconnect
+-rwxr-xr-x 1 root root       19016 jan 25  2022 /bin/acpi_listen
+-rwxr-xr-x 1 root root       14478 mei  4 13:14 /bin/add-apt-repository
+-rwxr-xr-x 1 root root       14712 feb 21  2022 /bin/addpart
+-rwxr-xr-x 1 root root       59800 mrt 25  2022 /bin/zipsplit
+-rwxr-xr-x 1 root root       26952 mrt 20 16:48 /bin/zjsdecode
+-rwxr-xr-x 1 root root        2206 sep  5  2022 /bin/zless
+-rwxr-xr-x 1 root root        1842 sep  5  2022 /bin/zmore
+-rwxr-xr-x 1 root root        4577 sep  5  2022 /bin/znew
+-rwxr-xr-x 1 root root      875096 mrt 24  2022 /bin/zstd
+lrwxrwxrwx 1 root root           4 dec 19  2022 /bin/zstdcat -> zstd
+-rwxr-xr-x 1 root root        3869 mrt 24  2022 /bin/zstdgrep
+-rwxr-xr-x 1 root root          30 mrt 24  2022 /bin/zstdless
+lrwxrwxrwx 1 root root           4 dec 19  2022 /bin/zstdmt -> zstd
